@@ -1,0 +1,95 @@
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\bin\Debug\database_client.exe.config
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\obj\Debug\database_client.csprojResolveAssemblyReference.cache
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\obj\Debug\database_client.Form1.resources
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\obj\Debug\database_client.Properties.Resources.resources
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\obj\Debug\database_client.csproj.GenerateResource.Cache
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\bin\Debug\database_client.exe
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\bin\Debug\database_client.pdb
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\bin\Debug\MySql.Data.dll
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\obj\Debug\database_client.exe
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\obj\Debug\database_client.pdb
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\obj\Debug\database_client.view_table.resources
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\obj\Debug\database_client.view_table_dialog.resources
+D:\УЧЕБА\3 курс\база данных\database_client\database_client\obj\Debug\database_client.add_row.resources
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.add_row.resources
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.Form1.resources
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.Properties.Resources.resources
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.view_table.resources
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.view_table_dialog.resources
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.exe
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.pdb
+C:\Users\user\Desktop\DataBase\database_client\database_client\bin\Debug\database_client.exe.config
+C:\Users\user\Desktop\DataBase\database_client\database_client\bin\Debug\database_client.exe
+C:\Users\user\Desktop\DataBase\database_client\database_client\bin\Debug\database_client.pdb
+C:\Users\user\Desktop\DataBase\database_client\database_client\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.csproj.CopyComplete
+C:\Users\user\Desktop\DataBase\database_client\database_client\obj\Debug\database_client.view_query.resources
+F:\sql\database_client\database_client\bin\Debug\database_client.exe.config
+F:\sql\database_client\database_client\obj\Debug\database_client.exe
+F:\sql\database_client\database_client\obj\Debug\database_client.pdb
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\database_client.exe.config
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\obj\Debug\database_client.exe
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\obj\Debug\database_client.pdb
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\database_client.exe
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\database_client.pdb
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\obj\Debug\database_client.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\obj\Debug\database_client.Form1.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\obj\Debug\database_client.Properties.Resources.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\obj\Debug\database_client.csproj.GenerateResource.Cache
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\Npgsql.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\System.ValueTuple.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\Npgsql.pdb
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\Npgsql.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\bin\Debug\System.ValueTuple.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\obj\Debug\database_client.TableViewer.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\obj\Debug\database_client.SwitchTableDialog.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\obj\Debug\database_client.AddRowDialog.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\database_client\database_client\obj\Debug\database_client.ViewQueryResult.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\database_client.exe.config
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.exe
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.pdb
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\database_client.exe
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\database_client.pdb
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\Npgsql.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\System.ValueTuple.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\Npgsql.pdb
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\Npgsql.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\System.ValueTuple.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.AddRowDialog.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.Form1.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.Properties.Resources.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.ViewQueryResult.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.TableViewer.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.SwitchTableDialog.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.csproj.GenerateResource.Cache
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\DnsClient.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\MongoDB.Bson.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\MongoDB.Driver.Core.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\MongoDB.Driver.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\System.Buffers.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\DnsClient.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\MongoDB.Bson.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\MongoDB.Driver.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\MongoDB.Driver.Core.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\bin\Debug\System.Buffers.xml
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.AddComment.resources
+E:\УЧЁБА\4 курс\8-й семестр\СУБД\Me\database_client\database_client\obj\Debug\database_client.ViewComments.resources
+E:\VolsuLabs\4kurs\8_semestr\СУБД\Me\database_client\database_client\bin\Debug\database_client.exe.config
+E:\VolsuLabs\4kurs\8_semestr\СУБД\Me\database_client\database_client\obj\Debug\database_client.exe
+E:\VolsuLabs\4kurs\8_semestr\СУБД\Me\database_client\database_client\obj\Debug\database_client.pdb
+C:\Users\User\Desktop\BD\database_client\database_client\bin\Debug\database_client.exe.config
+C:\Users\User\Desktop\BD\database_client\database_client\obj\Debug\database_client.exe
+C:\Users\User\Desktop\BD\database_client\database_client\obj\Debug\database_client.pdb
